@@ -61,6 +61,9 @@ public class WaitAndStateDemo {
 
                         //线程B阻塞，并释放获取到的resourceA的锁
                         System.out.println("threadB release resourceA lock");
+                        //唤醒A线程后，当A线程执行完后，B线程变能获取到resourceB的监视器锁
+                        //通知A线程不用等了，可以往下执行了
+//                        resourceB.notify();
                         resourceB.wait();
                     }
                 }
