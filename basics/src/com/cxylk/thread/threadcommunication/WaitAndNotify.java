@@ -19,6 +19,7 @@ public class WaitAndNotify {
                 for (int i = 0; i < 5; i++) {
                     try {
                         System.out.println("ThreadA:"+i);
+                        //先通知，再等待
                         lock.notify();
                         lock.wait();
 //                        Thread.sleep(1000);//sleep方法先打印A线程，再打印B线程
@@ -39,6 +40,7 @@ public class WaitAndNotify {
                 for (int i = 0; i < 5; i++) {
                     try {
                         System.out.println("ThreadB:"+i);
+                        //先通知，再等待
                         lock.notify();
                         lock.wait();
 //                        Thread.sleep(1000);
