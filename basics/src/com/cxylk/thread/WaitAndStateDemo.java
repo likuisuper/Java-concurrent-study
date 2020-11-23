@@ -30,7 +30,8 @@ public class WaitAndStateDemo {
                         //调用wait()方法必须事先获取该对象的监视器锁，否则将会
                         //抛出IllegalMonitorStateException异常
                         //线程A阻塞，并释放获取到的resourceA的锁
-                        resourceA.wait(1000);
+                        System.out.println("threadA release resourceA lock");
+                        resourceA.wait();
                     }
                 }
             } catch (InterruptedException e){
@@ -64,7 +65,7 @@ public class WaitAndStateDemo {
                         //唤醒A线程后，当A线程执行完后，B线程变能获取到resourceB的监视器锁
                         //通知A线程不用等了，可以往下执行了
 //                        resourceB.notify();
-                        resourceB.wait();
+                        resourceA.wait();
                     }
                 }
             } catch (InterruptedException e) {
@@ -103,6 +104,9 @@ public class WaitAndStateDemo {
         //JAVA线程的RUNNABLE状态其实包含了传统操作系统的ready和running两个状态的
         System.out.println("调用start后的线程A状态->"+threadA.getState());//此时的状态为RUNNABLE
         System.out.println("调用start后的线程状B态->"+threadB.getState());//此时的状态为RUNNABLE
+
+//        threadA.join();
+//        threadB.join();
 
         //获取Java线程管理MXBean
         ThreadMXBean threadMXBean=ManagementFactory.getThreadMXBean();
