@@ -1,4 +1,4 @@
-package com.cxylk.thread;
+package com.cxylk.thread.threadinterrupted;
 
 /**
  * @Classname WaitInterupt
