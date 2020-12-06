@@ -46,6 +46,7 @@ public class TestUnSafe {
 
             //获取state变量在TestUnSafe中的偏移值
             stateOffset=unsafe.objectFieldOffset(TestUnSafe.class.getDeclaredField("state"));
+            System.out.println(stateOffset);
         } catch (Exception e) {
             System.out.println(e.getLocalizedMessage());
             throw new Error(e);
