@@ -1,0 +1,8 @@
+
+[
+java:S2184"@Cast one of the operands of this addition operation to a "long".(Æ¡¼Úþÿÿÿÿ
+i
+java:S3008"SRename this field "LINE_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÑÇÞ
+i
+java:S3008"TRename this field "COLUM_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶÷¼]
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜©¤Ëÿÿÿÿÿ

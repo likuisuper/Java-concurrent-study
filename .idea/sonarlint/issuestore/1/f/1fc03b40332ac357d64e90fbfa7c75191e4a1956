@@ -1,0 +1,17 @@
+
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+B
+java:S3011",This accessibility update should be removed.(˜ÂÓ˜
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(™²“õ
+G
+java:S1135
+"2Complete the task associated to this TODO comment.(£°§\
+P	java:S125$"<This block of commented-out lines of code should be removed.(Ÿ’ƒ]
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ë‰¸Ä
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Âðð
+?
+java:S1068")Remove this unused "state" private field.(à ¿Ý
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ï÷°á
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰ãŸÅøÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(éª‚€
