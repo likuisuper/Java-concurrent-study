@@ -11,3 +11,13 @@ j
 :basics/src/com/cxylk/thread/fakeshared/TestForContent.java,a\e\ae3629cc3867496cc120ca615f73f229d901e56c
 j
 :basics/src/com/cxylk/thread/locksupport/TestOneThread.java,8\a\8a34b699b2fff34d45e7890c135c431dbc8c1cb0
+e
+5basics/src/com/cxylk/thread/locksupport/TestPark.java,1\b\1bdebf7d0d35e9d3226787df72778b906691af53
+k
+;basics/src/com/cxylk/thread/locksupport/TestManyThread.java,b\a\baea29d5790428c43d6e357957322c2974be129e
+f
+6basics/src/com/cxylk/thread/locksupport/NumLetter.java,1\9\19dd301a27a9f472c48a68bebbef24443cec83f0
+e
+5basics/src/com/cxylk/thread/aqs/NonReentrantLock.java,5\2\52c14010ef5bbedb124831ae32f71aa40f7ae9ea
+h
+8basics/src/com/cxylk/thread/aqs/ProducerAndConsumer.java,d\8\d8b85dbd8733a1c90f7c443578f7ddd0ab49e7e8

@@ -1,0 +1,7 @@
+
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Óü¨Üøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Óü¨Üøÿÿÿÿ
+s
+java:S1450"XRemove the "threadOne" field and declare it as a local variable in the relevant methods.(…÷¹ùÿÿÿÿ
+B
+java:S1659"'Declare "threadTwo" on a separate line.(…÷¹ùÿÿÿÿ
