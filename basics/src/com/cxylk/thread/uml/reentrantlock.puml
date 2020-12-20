@@ -1,0 +1,48 @@
+@startuml
+interface Serializable
+skinparam classAttributeIconSize 0
+interface Lock{
+    +newCondition(): Condition
+    +unlock():  void
+    +boolean trylock(time long,unit TimeUnit)
+    +trylock(): boolean
+    +lockIntrruptibly(): void
+    +lock(): void
+}
+skinparam classAttributeIconSize 0
+class ReentrantLock{
+ +sync: Sync
+ +ReentrantLock(fair:boolean)
+ +ReentrantLock()
+ +lock(): void
+ +lockIntrruptibly(): void
+ +trylock(): boolean
+ +boolean trylock(time:long,unit:TimeUnit)
+ +unlock(): void
+ +newCondition(): Condition
+}
+abstract class AbstractQueueSynchronizer
+skinparam classAttributeIconSize 0
+class Sync{
+#lock(): void
+}
+skinparam classAttributeIconSize 0
+class NonfairSync{
++lock(): void
++tryAcquire(acquire: int): boolean
+}
+skinparam classAttributeIconSize 0
+class FairSync{
++lock(): void
++tryAcquire(acquire: int): boolean
+}
+
+AbstractQueueSynchronizer <|-- Sync
+Sync <|-- NonfairSync
+Sync <|-- FairSync
+ReentrantLock --> Sync
+Lock <|.. ReentrantLock
+Serializable <|.. ReentrantLock
+
+
+@enduml

@@ -1,4 +1,4 @@
-package com.cxylk.thread.aqs;
+package com.cxylk.thread.lockprinciple.aqs;
 
 import java.util.Queue;
 import java.util.concurrent.LinkedBlockingDeque;

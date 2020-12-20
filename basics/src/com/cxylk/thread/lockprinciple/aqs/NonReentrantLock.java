@@ -1,4 +1,4 @@
-package com.cxylk.thread.aqs;
+package com.cxylk.thread.lockprinciple.aqs;
 
 import java.io.Serializable;
 import java.util.concurrent.TimeUnit;
