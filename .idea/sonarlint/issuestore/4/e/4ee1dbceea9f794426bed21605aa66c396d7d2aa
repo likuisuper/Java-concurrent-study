@@ -1,0 +1,5 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô×¨ñ8®Áìè.
+w
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ù„œÂÿÿÿÿÿ8™Æşè.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ï‚Öøÿÿÿÿ8®Áìè.
