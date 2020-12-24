@@ -1,5 +1,14 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ô×¨ñ8®Áìè.
-w
-java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ù„œÂÿÿÿÿÿ8™Æşè.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(ï‚Öøÿÿÿÿ8®Áìè.
+c
+java:S2142]"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8õÏıØè.
+c
+java:S2142O"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‡öß×è.
+h
+java:S1128"KRemove this unused import 'com.cxylk.thread.threadinterrupted.Interrupted'.(˜¸š½8£˜İ×è.
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(ëŞ÷‹ÿÿÿÿÿ8£èê×è.
+]	java:S125V"<This block of commented-out lines of code should be removed.(ÚÂº×ùÿÿÿÿ8ÿ®æØè.
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ù„œÂÿÿÿÿÿ8™Æşè.
+]	java:S125H"<This block of commented-out lines of code should be removed.(æÙõúÿÿÿÿ8‰ıåØè.
+c
+java:S2142A"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8®‹á×è.

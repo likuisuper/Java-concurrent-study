@@ -1,0 +1,50 @@
+@startuml
+skinparam classAttributeIconSize 0
+class ReentrantWriteReadLock{
+-writeLock:ReentrantWriteReadLock.WriteLock
+-readLock:ReentrantWriteReadLock.ReadLock
+-sync:Sync
++writeLock(): WriteLock
++readLock(): ReadLock
+}
+skinparam classAttributeIconSize 0
+class WriteLock{
++lock(): void
++unlock(): void
++lockInterruptibly(): void
++trylock(): boolean
++trylock(timeout: long,unit: TimeUnit): boolean
++newCondition: Condition
+}
+skinparam classAttributeIconSize 0
+class ReadLock{
++lock(): void
++unlock(): void
++lockInterruptibly(): void
++trylock(): boolean
++trylock(timeout:long,unit:TimeUnit): boolean
++newCondition: Condition
+}
+skinparam classAttributeIconSize 0
+class Sync{
+-readHolds: ThreadLocalHoldCounter
+-cachedHoldCounter: HoldCounter
+-firstReader: Thread
+-firstReaderHoldCount: int
++tryAcquire(arg: int): boolean
++tryRelease(arg: int): boolean
++tryAcquireShared(arg: int): boolean
++tryReleaseShared(arg: int): boolean
+}
+
+Sync <|-- FairSync
+Sync <|-- NonfairSync
+AbstractQueuedSynchronizer <|-- Sync
+ReentrantWriteReadLock --> Sync
+ReentrantWriteReadLock --> WriteLock
+ReentrantWriteReadLock --> ReadLock
+Lock <|.. WriteLock
+Lock <|.. ReadLock
+WriteLock ..> Sync
+ReadLock ..> Sync
+@enduml

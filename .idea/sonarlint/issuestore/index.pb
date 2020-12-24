@@ -30,3 +30,7 @@ Fbasics/src/com/cxylk/thread/lockprinciple/aqs/ProducerAndConsumer.java,e\9\e9e
 Nbasics/src/com/cxylk/thread/lockprinciple/reentrantlock/ReentrantLockList.java,4\e\4ee1dbceea9f794426bed21605aa66c396d7d2aa
 ~
 Nbasics/src/com/cxylk/thread/lockprinciple/reentrantlock/FairAndUnfairTest.java,1\f\1fc455b22df421d7b400e9c0b42069988bf2299b
+ê
+`basics/src/com/cxylk/thread/lockprinciple/reentrantreadwritelock/ReentrantReadWriteLockList.java,8\e\8e46034c0bd3dda2be1edb3534b73dab62bc3544
+k
+;basics/src/com/cxylk/thread/uml/reentrantwritereadlock.puml,f\1\f1cfca7dfaa0bd8955536263fb19663e5b37193c
