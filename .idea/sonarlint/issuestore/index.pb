@@ -34,3 +34,5 @@ Nbasics/src/com/cxylk/thread/lockprinciple/reentrantlock/FairAndUnfairTest.java
 `basics/src/com/cxylk/thread/lockprinciple/reentrantreadwritelock/ReentrantReadWriteLockList.java,8\e\8e46034c0bd3dda2be1edb3534b73dab62bc3544
 k
 ;basics/src/com/cxylk/thread/uml/reentrantwritereadlock.puml,f\1\f1cfca7dfaa0bd8955536263fb19663e5b37193c
+p
+@basics/src/com/cxylk/thread/lockprinciple/stampedlock/Point.java,b\b\bb07443bde9ce8dde8c073449c76d3605f43e1aa

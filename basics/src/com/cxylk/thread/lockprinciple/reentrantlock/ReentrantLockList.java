@@ -1,7 +1,5 @@
 package com.cxylk.thread.lockprinciple.reentrantlock;
 
-import com.cxylk.thread.threadinterrupted.Interrupted;
-
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;

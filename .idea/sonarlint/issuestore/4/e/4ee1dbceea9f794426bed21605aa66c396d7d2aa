@@ -1,14 +1,12 @@
 
 c
-java:S2142]"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8õÏıØè.
+java:S2142["FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8®‹á×è.
+]	java:S125T"<This block of commented-out lines of code should be removed.(ÚÂº×ùÿÿÿÿ8ÿ®æØè.
 c
-java:S2142O"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‡öß×è.
-h
-java:S1128"KRemove this unused import 'com.cxylk.thread.threadinterrupted.Interrupted'.(˜¸š½8£˜İ×è.
-Z	java:S106q"9Replace this use of System.out or System.err by a logger.(ëŞ÷‹ÿÿÿÿÿ8£èê×è.
-]	java:S125V"<This block of commented-out lines of code should be removed.(ÚÂº×ùÿÿÿÿ8ÿ®æØè.
+java:S2142M"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‡öß×è.
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(ëŞ÷‹ÿÿÿÿÿ8£èê×è.
+c
+java:S2142?"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8õÏıØè.
+]	java:S125F"<This block of commented-out lines of code should be removed.(æÙõúÿÿÿÿ8‰ıåØè.
 y
-java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ù„œÂÿÿÿÿÿ8™Æşè.
-]	java:S125H"<This block of commented-out lines of code should be removed.(æÙõúÿÿÿÿ8‰ıåØè.
-c
-java:S2142A"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8®‹á×è.
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ù„œÂÿÿÿÿÿ8™Æşè.
