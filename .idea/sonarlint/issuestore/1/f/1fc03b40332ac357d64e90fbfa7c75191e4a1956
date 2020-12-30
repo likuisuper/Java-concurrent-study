@@ -1,17 +1,17 @@
 
-B
-java:S3011",This accessibility update should be removed.(˜ÂÓ˜
-N	java:S106)"9Replace this use of System.out or System.err by a logger.(™²“õ
-P	java:S125$"<This block of commented-out lines of code should be removed.(Ÿ’ƒ]
-K
-java:S1191"5Use classes from the Java API instead of Sun classes.(éª‚€
-S	java:S106/"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
 N	java:S106+"9Replace this use of System.out or System.err by a logger.(ï÷°á
+P	java:S125$"<This block of commented-out lines of code should be removed.(Ÿ’ƒ]
+?
+java:S1068")Remove this unused "state" private field.(à ¿Ý
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(™²“õ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰ãŸÅøÿÿÿÿ
 [	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Âðð
 G
 java:S1135
 "2Complete the task associated to this TODO comment.(£°§\
-?
-java:S1068")Remove this unused "state" private field.(à ¿Ý
-t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰ãŸÅøÿÿÿÿ
 N	java:S106,"9Replace this use of System.out or System.err by a logger.(ë‰¸Ä
+B
+java:S3011",This accessibility update should be removed.(˜ÂÓ˜
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(éª‚€

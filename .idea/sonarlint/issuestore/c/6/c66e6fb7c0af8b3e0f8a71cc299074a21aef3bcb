@@ -1,0 +1,18 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(éª‚€
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ê¡Õ¤ùÿÿÿÿ
+B
+java:S3011'",This accessibility update should be removed.(˜ÂÓ˜
+Q	java:S125;"<This block of commented-out lines of code should be removed.(™Ò¯ô
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ºÚÞüÿÿÿÿ8¨ÚüÓé.
+Q	java:S125"<This block of commented-out lines of code should be removed.(ó•á÷
+V	java:S125="<This block of commented-out lines of code should be removed.(™Ì«Œûÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìºÌÝ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(úÎÈ¼þÿÿÿÿ
+K
+java:S1068")Remove this unused "state" private field.(öÒÚ¾ûÿÿÿÿ8¶ÃÔé.
+[	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(Âðð
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(äîÓÕþÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(‡É»á
+Q	java:S125B"<This block of commented-out lines of code should be removed.( ¢Ã«

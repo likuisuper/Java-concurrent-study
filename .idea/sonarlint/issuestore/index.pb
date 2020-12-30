@@ -36,3 +36,5 @@ k
 ;basics/src/com/cxylk/thread/uml/reentrantwritereadlock.puml,f\1\f1cfca7dfaa0bd8955536263fb19663e5b37193c
 p
 @basics/src/com/cxylk/thread/lockprinciple/stampedlock/Point.java,b\b\bb07443bde9ce8dde8c073449c76d3605f43e1aa
+b
+2basics/src/com/cxylk/thread/unsafe/TestUnSafe.java,c\6\c66e6fb7c0af8b3e0f8a71cc299074a21aef3bcb
