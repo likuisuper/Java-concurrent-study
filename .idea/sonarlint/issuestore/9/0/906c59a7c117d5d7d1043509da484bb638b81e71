@@ -1,0 +1,11 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(±®Ü÷8Ğ£˜¡ë.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(­ÅÅàÿÿÿÿÿ8ùš÷Ÿë.
+T	java:S899":Do something with the "boolean" value returned by "offer".(Î‚Æ´8Õ×”¡ë.
+[	java:S125"<This block of commented-out lines of code should be removed.(ìÊÌ—ÿÿÿÿÿ8ÍùŒ¡ë.
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ëëİ8…óîŸë.
+T
+java:S1128"4Remove this unused import 'java.util.PriorityQueue'.(ÆãÑşøÿÿÿÿ8‚ú… ë.
+y
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¤¦ÿÿÿÿÿ8•§¡ë.
