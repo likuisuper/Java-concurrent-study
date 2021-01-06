@@ -40,3 +40,7 @@ b
 2basics/src/com/cxylk/thread/unsafe/TestUnSafe.java,c\6\c66e6fb7c0af8b3e0f8a71cc299074a21aef3bcb
 t
 Dbasics/src/com/cxylk/thread/utilqueue/TestPriorityBlockingQueue.java,9\0\906c59a7c117d5d7d1043509da484bb638b81e71
+y
+Iadvanced/src/com/cxylk/concurrent/concurrentutil/ExcelSampleForLatch.java,1\c\1cbf05e223d73829cbc47d8225eadbd0cc0c7a0a
+~
+Nadvanced/src/com/cxylk/concurrent/concurrentutil/SimpleCountDownLatchTest.java,a\8\a8e42d4a9fd6cafa01c76c8ebaea16e8c6a51046

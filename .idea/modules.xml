@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/advanced/advanced.iml" filepath="$PROJECT_DIR$/advanced/advanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/concurrent-study.iml" filepath="$PROJECT_DIR$/.idea/concurrent-study.iml" />
     </modules>
   </component>
