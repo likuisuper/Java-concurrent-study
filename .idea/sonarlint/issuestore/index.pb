@@ -44,3 +44,5 @@ y
 Iadvanced/src/com/cxylk/concurrent/concurrentutil/ExcelSampleForLatch.java,1\c\1cbf05e223d73829cbc47d8225eadbd0cc0c7a0a
 ~
 Nadvanced/src/com/cxylk/concurrent/concurrentutil/SimpleCountDownLatchTest.java,a\8\a8e42d4a9fd6cafa01c76c8ebaea16e8c6a51046
+x
+Hadvanced/src/com/cxylk/concurrent/concurrentutil/CountDownLatchDemo.java,0\e\0eb44df03afd0b711ac793f0f7916aedff26439f

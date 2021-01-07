@@ -1,0 +1,13 @@
+
+X	java:S106"9Replace this use of System.out or System.err by a logger.(úªˆ®şÿÿÿÿ8ãŠº¿í.
+8
+java:S2119"Save and re-use this "Random".(¼İÅf8ü­§¿í.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Óğæœúÿÿÿÿ8ãŠº¿í.
+a
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8”¡¦¿í.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÛ=8ƒó¨¿í.
+C
+java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®8ãŠº¿í.
+a
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ãŠº¿í.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô•¼8ÏèÄ¿í.
