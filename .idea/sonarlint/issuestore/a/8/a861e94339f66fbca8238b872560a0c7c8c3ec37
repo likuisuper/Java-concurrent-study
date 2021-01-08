@@ -1,0 +1,16 @@
+
+U	java:S106."9Replace this use of System.out or System.err by a logger.( ç¨¨8Ø¹éí.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(à«Ïşúÿÿÿÿ8¹Øéí.
+E
+java:S1604+"(Make this anonymous inner class a lambda(Ç—Œ‹8Ø¹éí.
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ãê’ÿÿÿÿÿ8œÒÁéí.
+E
+java:S16044"(Make this anonymous inner class a lambda(Ç—Œ‹8Ø¹éí.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(à«Ïşúÿÿÿÿ8—ü˜éí.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.( ç¨¨8Ø¹éí.
+E
+java:S1604"(Make this anonymous inner class a lambda(Ç—Œ‹8¹Øéí.
+E
+java:S1604"(Make this anonymous inner class a lambda(Ç—Œ‹8—ü˜éí.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(ù€8ßâ»éí.

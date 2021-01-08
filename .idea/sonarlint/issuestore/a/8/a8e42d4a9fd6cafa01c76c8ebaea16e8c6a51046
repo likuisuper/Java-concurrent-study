@@ -1,13 +1,13 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(û×Ãã8ðãÅ˜í.
-C
-java:S1604"(Make this anonymous inner class a lambda(Ç—Œ‹8ŸªÀ˜í.
-a
-java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ŸªÀ˜í.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÐéšþÿÿÿÿ8ŸªÀ˜í.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ý­¼Á8æ‡Ä˜í.
-a
-java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8æ‡Ä˜í.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(¬¡í’þÿÿÿÿ8àæÇ˜í.
-C
-java:S1604"(Make this anonymous inner class a lambda(Ç—Œ‹8æ‡Ä˜í.
+E
+java:S1604"(Make this anonymous inner class a lambda(Ç—Œ‹8ŸªÀ˜í.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Ý­¼Á8æ‡Ä˜í.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÐéšþÿÿÿÿ8ŸªÀ˜í.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ŸªÀ˜í.
+c
+java:S2142)"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8æ‡Ä˜í.
+E
+java:S1604#"(Make this anonymous inner class a lambda(Ç—Œ‹8æ‡Ä˜í.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(û×Ãã8ðãÅ˜í.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(¬¡í’þÿÿÿÿ8àæÇ˜í.

@@ -1,0 +1,7 @@
+
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(“µ÷—8ÞÝ°çí.
+:
+java:S2119"Save and re-use this "Random".(¼ÝÅf8èäºæí.
+U	java:S106."9Replace this use of System.out or System.err by a logger.( ÅÓ“8ÞÝ°çí.
+h
+java:S2142#"FEither re-interrupt this method or rethrow the "InterruptedException".(ÿÑ¨çýÿÿÿÿ8ÞÝ°çí.
